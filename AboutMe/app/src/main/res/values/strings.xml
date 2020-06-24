@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="yellowstar">yellow star</string>
+    <string name="gold_star_for_you">Gold Star For You</string>
+    <string name="ryan_lee">Ryan Lee</string>
+    <string name="bio">Bio</string>
+    <string name="biowritten">
+        Hi, my name is Ryan and I am going into my 4th year of engineering at UBC in the integrated engineering program and I am looking
+        for co-op placement for 4-8 months.
+        Through side projects and extracurriculars, I have learned to be resourceful
+        in the projects I take on such as working on a portable smart ECG, a telemetry board for UBC Solar and a helmet assembly for assisted respiration.
+        Each of these projects I knew very little about beforehand, however my resourcefulness and determination allowed me to succeed.
+        I would like to work in the biomedical industry because I have some experience with low voltage system design, programming and I am passionate about
+        helping people.
+        \n\n
+        Attached are a quick glimpse of my contributions to these projects.
+        \n\n
+        I hope I can help your company succeed in it\'s endeavours.
+        \n\n
+        Kind regards,
+        \n\n
+        Ryan Lee
+        </string>
+    <string name="enter">ENTER</string>
+</resources>

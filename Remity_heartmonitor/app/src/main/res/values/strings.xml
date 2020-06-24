@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remity_heartmonitor</string>
+    <string name="set_alarm">SET ALARM</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map">Open Map</string>
+</resources>

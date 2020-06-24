@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="simple_box">
+        <item name="android:background">@android:color/holo_purple</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/textsize</item>
+        <item name="android:fontFamily">@font/rammetto_one</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+
+    </style>
+</resources>
